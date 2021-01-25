@@ -1,0 +1,589 @@
+Entity,Code,Date,people_vaccinated_per_hundred
+Alabama,,1/12/21,1.44
+Alabama,,1/13/21,1.52
+Alabama,,1/14/21,1.64
+Alabama,,1/15/21,1.77
+Alabama,,1/19/21,2.33
+Alabama,,1/20/21,2.47
+Alabama,,1/21/21,2.95
+Alabama,,1/22/21,3.56
+Alabama,,1/23/21,3.96
+Alabama,,1/24/21,4.36
+Alaska,,1/12/21,3.07
+Alaska,,1/13/21,3.36
+Alaska,,1/14/21,4.85
+Alaska,,1/15/21,5.41
+Alaska,,1/19/21,7.58
+Alaska,,1/20/21,7.78
+Alaska,,1/21/21,8.13
+Alaska,,1/22/21,9.2
+Alaska,,1/23/21,9.98
+Alaska,,1/24/21,10.65
+American Samoa,ASM,1/12/21,1.51
+American Samoa,ASM,1/13/21,2.14
+American Samoa,ASM,1/14/21,4.33
+American Samoa,ASM,1/15/21,5.65
+American Samoa,ASM,1/19/21,7.16
+American Samoa,ASM,1/20/21,8.04
+American Samoa,ASM,1/21/21,8.5
+American Samoa,ASM,1/22/21,10.1
+American Samoa,ASM,1/23/21,10.56
+American Samoa,ASM,1/24/21,12.74
+Arizona,,1/12/21,1.31
+Arizona,,1/13/21,1.43
+Arizona,,1/14/21,2.16
+Arizona,,1/15/21,2.42
+Arizona,,1/19/21,3.23
+Arizona,,1/20/21,3.39
+Arizona,,1/21/21,3.6
+Arizona,,1/22/21,3.85
+Arizona,,1/23/21,4.2
+Arizona,,1/24/21,4.56
+Arkansas,,1/12/21,1.3
+Arkansas,,1/13/21,2.67
+Arkansas,,1/14/21,2.99
+Arkansas,,1/15/21,3.24
+Arkansas,,1/19/21,3.94
+Arkansas,,1/20/21,4.8
+Arkansas,,1/21/21,4.8
+Arkansas,,1/22/21,5.56
+Arkansas,,1/23/21,5.56
+Arkansas,,1/24/21,5.94
+California,,1/12/21,1.78
+California,,1/13/21,1.88
+California,,1/14/21,2.03
+California,,1/15/21,2.19
+California,,1/19/21,3.03
+California,,1/20/21,3.18
+California,,1/21/21,3.38
+California,,1/22/21,3.74
+California,,1/23/21,4.2
+California,,1/24/21,4.65
+Colorado,,1/12/21,3.26
+Colorado,,1/13/21,3.44
+Colorado,,1/14/21,3.63
+Colorado,,1/15/21,3.89
+Colorado,,1/19/21,4.84
+Colorado,,1/20/21,4.99
+Colorado,,1/21/21,5.15
+Colorado,,1/22/21,5.44
+Colorado,,1/23/21,5.44
+Colorado,,1/24/21,6.17
+Connecticut,,1/12/21,1.58
+Connecticut,,1/13/21,1.65
+Connecticut,,1/14/21,4.39
+Connecticut,,1/15/21,4.68
+Connecticut,,1/19/21,5.66
+Connecticut,,1/20/21,5.98
+Connecticut,,1/21/21,6.48
+Connecticut,,1/22/21,6.98
+Connecticut,,1/23/21,7.41
+Connecticut,,1/24/21,7.72
+Delaware,,1/12/21,1.63
+Delaware,,1/13/21,1.71
+Delaware,,1/14/21,2.63
+Delaware,,1/15/21,2.63
+Delaware,,1/19/21,3.66
+Delaware,,1/20/21,3.96
+Delaware,,1/21/21,4.3
+Delaware,,1/22/21,4.65
+Delaware,,1/23/21,5.08
+Delaware,,1/24/21,5.4
+District of Columbia,,1/13/21,0.28
+District of Columbia,,1/14/21,4.24
+District of Columbia,,1/15/21,4.49
+District of Columbia,,1/19/21,5.63
+District of Columbia,,1/20/21,5.83
+District of Columbia,,1/21/21,6.15
+District of Columbia,,1/22/21,6.34
+District of Columbia,,1/23/21,6.67
+District of Columbia,,1/24/21,6.98
+Federated States of Micronesia,,1/12/21,0.4
+Federated States of Micronesia,,1/13/21,0.53
+Federated States of Micronesia,,1/14/21,0.58
+Federated States of Micronesia,,1/15/21,0.67
+Federated States of Micronesia,,1/19/21,1.38
+Federated States of Micronesia,,1/20/21,1.69
+Federated States of Micronesia,,1/21/21,2.01
+Federated States of Micronesia,,1/22/21,2.42
+Federated States of Micronesia,,1/23/21,2.65
+Federated States of Micronesia,,1/24/21,2.65
+Florida,,1/12/21,2.73
+Florida,,1/13/21,3.01
+Florida,,1/14/21,3.3
+Florida,,1/15/21,3.62
+Florida,,1/19/21,4.98
+Florida,,1/20/21,5.24
+Florida,,1/21/21,5.24
+Florida,,1/22/21,5.52
+Florida,,1/23/21,6.21
+Florida,,1/24/21,6.45
+Georgia,GEO,1/12/21,0.8
+Georgia,GEO,1/13/21,0.81
+Georgia,GEO,1/14/21,1.92
+Georgia,GEO,1/15/21,1.92
+Georgia,GEO,1/19/21,2.62
+Georgia,GEO,1/20/21,3.35
+Georgia,GEO,1/21/21,3.83
+Georgia,GEO,1/22/21,5.03
+Georgia,GEO,1/23/21,5.03
+Georgia,GEO,1/24/21,5.03
+Guam,GUM,1/12/21,0.24
+Guam,GUM,1/13/21,0.24
+Guam,GUM,1/14/21,2.28
+Guam,GUM,1/15/21,2.28
+Guam,GUM,1/19/21,2.28
+Guam,GUM,1/20/21,2.28
+Guam,GUM,1/21/21,2.28
+Guam,GUM,1/22/21,2.28
+Guam,GUM,1/23/21,2.28
+Guam,GUM,1/24/21,2.28
+Hawaii,,1/15/21,2.8
+Hawaii,,1/19/21,3.72
+Hawaii,,1/20/21,4.1
+Hawaii,,1/21/21,4.47
+Hawaii,,1/22/21,4.8
+Hawaii,,1/23/21,4.8
+Hawaii,,1/24/21,4.8
+Idaho,,1/12/21,1.76
+Idaho,,1/13/21,1.86
+Idaho,,1/14/21,1.97
+Idaho,,1/15/21,2.11
+Idaho,,1/19/21,3
+Idaho,,1/20/21,3.26
+Idaho,,1/21/21,3.42
+Idaho,,1/22/21,3.6
+Idaho,,1/23/21,3.82
+Idaho,,1/24/21,4.05
+Illinois,,1/12/21,2.24
+Illinois,,1/13/21,2.3
+Illinois,,1/14/21,2.5
+Illinois,,1/15/21,2.7
+Illinois,,1/19/21,3.27
+Illinois,,1/20/21,3.36
+Illinois,,1/21/21,3.57
+Illinois,,1/22/21,3.79
+Illinois,,1/23/21,4.09
+Illinois,,1/24/21,4.39
+Indiana,,1/12/21,1.7
+Indiana,,1/13/21,1.87
+Indiana,,1/14/21,3.03
+Indiana,,1/15/21,3.31
+Indiana,,1/19/21,4.22
+Indiana,,1/20/21,4.42
+Indiana,,1/21/21,4.76
+Indiana,,1/22/21,5.05
+Indiana,,1/23/21,5.46
+Indiana,,1/24/21,5.46
+Iowa,,1/12/21,2.92
+Iowa,,1/13/21,3.23
+Iowa,,1/14/21,3.2
+Iowa,,1/15/21,3.42
+Iowa,,1/19/21,4.12
+Iowa,,1/20/21,4.23
+Iowa,,1/21/21,4.42
+Iowa,,1/22/21,4.62
+Iowa,,1/23/21,4.79
+Iowa,,1/24/21,5
+Kansas,,1/12/21,1.85
+Kansas,,1/13/21,2.01
+Kansas,,1/14/21,2.66
+Kansas,,1/15/21,2.86
+Kansas,,1/19/21,3.5
+Kansas,,1/20/21,3.63
+Kansas,,1/21/21,3.84
+Kansas,,1/22/21,4
+Kansas,,1/23/21,4.22
+Kansas,,1/24/21,4.37
+Kentucky,,1/12/21,2.3
+Kentucky,,1/13/21,2.5
+Kentucky,,1/14/21,3.25
+Kentucky,,1/15/21,3.64
+Kentucky,,1/19/21,4.51
+Kentucky,,1/20/21,4.67
+Kentucky,,1/21/21,4.88
+Kentucky,,1/22/21,5.14
+Kentucky,,1/23/21,5.45
+Kentucky,,1/24/21,6.01
+Louisiana,,1/12/21,2.52
+Louisiana,,1/13/21,2.73
+Louisiana,,1/14/21,3.21
+Louisiana,,1/15/21,3.6
+Louisiana,,1/19/21,4.76
+Louisiana,,1/20/21,4.92
+Louisiana,,1/21/21,5.18
+Louisiana,,1/22/21,5.52
+Louisiana,,1/23/21,5.86
+Louisiana,,1/24/21,6.26
+Maine,,1/12/21,2.83
+Maine,,1/13/21,2.91
+Maine,,1/14/21,3.84
+Maine,,1/15/21,3.84
+Maine,,1/19/21,4.67
+Maine,,1/20/21,4.78
+Maine,,1/21/21,4.99
+Maine,,1/22/21,5.22
+Maine,,1/23/21,5.51
+Maine,,1/24/21,5.9
+Marshall Islands,MHL,1/12/21,1.07
+Marshall Islands,MHL,1/13/21,1.08
+Marshall Islands,MHL,1/14/21,1.07
+Marshall Islands,MHL,1/15/21,1.08
+Marshall Islands,MHL,1/19/21,2.14
+Marshall Islands,MHL,1/20/21,2.54
+Marshall Islands,MHL,1/21/21,3.35
+Marshall Islands,MHL,1/22/21,4.12
+Marshall Islands,MHL,1/23/21,4.86
+Marshall Islands,MHL,1/24/21,5.25
+Maryland,,1/12/21,2.26
+Maryland,,1/13/21,2.68
+Maryland,,1/14/21,2.73
+Maryland,,1/15/21,2.96
+Maryland,,1/19/21,3.73
+Maryland,,1/20/21,3.86
+Maryland,,1/21/21,4.03
+Maryland,,1/22/21,4.24
+Maryland,,1/23/21,4.51
+Maryland,,1/24/21,4.97
+Massachusetts,,1/12/21,2.68
+Massachusetts,,1/13/21,2.8
+Massachusetts,,1/14/21,2.97
+Massachusetts,,1/15/21,3.22
+Massachusetts,,1/19/21,4.03
+Massachusetts,,1/20/21,4.18
+Massachusetts,,1/21/21,4.45
+Massachusetts,,1/22/21,4.62
+Massachusetts,,1/23/21,4.85
+Massachusetts,,1/24/21,5.17
+Michigan,,1/12/21,2.08
+Michigan,,1/13/21,2.6
+Michigan,,1/14/21,2.87
+Michigan,,1/15/21,3.13
+Michigan,,1/19/21,4.18
+Michigan,,1/20/21,4.35
+Michigan,,1/21/21,4.64
+Michigan,,1/22/21,4.99
+Michigan,,1/23/21,5.37
+Michigan,,1/24/21,5.74
+Minnesota,,1/12/21,2.7
+Minnesota,,1/13/21,2.74
+Minnesota,,1/14/21,2.86
+Minnesota,,1/15/21,3.02
+Minnesota,,1/19/21,3.71
+Minnesota,,1/20/21,3.72
+Minnesota,,1/21/21,3.78
+Minnesota,,1/22/21,3.97
+Minnesota,,1/23/21,4.26
+Minnesota,,1/24/21,4.49
+Mississippi,,1/12/21,1.54
+Mississippi,,1/13/21,1.73
+Mississippi,,1/14/21,2.17
+Mississippi,,1/15/21,2.55
+Mississippi,,1/19/21,3.49
+Mississippi,,1/20/21,3.78
+Mississippi,,1/21/21,4.2
+Mississippi,,1/22/21,4.6
+Mississippi,,1/23/21,4.6
+Mississippi,,1/24/21,5.43
+Missouri,,1/12/21,1.76
+Missouri,,1/13/21,1.76
+Missouri,,1/14/21,2.37
+Missouri,,1/15/21,2.5
+Missouri,,1/19/21,3.09
+Missouri,,1/20/21,3.16
+Missouri,,1/21/21,3.34
+Missouri,,1/22/21,3.55
+Missouri,,1/23/21,3.62
+Missouri,,1/24/21,3.96
+Montana,,1/12/21,2.89
+Montana,,1/13/21,2.98
+Montana,,1/14/21,3.66
+Montana,,1/15/21,3.85
+Montana,,1/19/21,4.42
+Montana,,1/20/21,4.5
+Montana,,1/21/21,4.72
+Montana,,1/22/21,5.1
+Montana,,1/23/21,5.55
+Montana,,1/24/21,5.85
+Nebraska,,1/12/21,3.41
+Nebraska,,1/13/21,3.57
+Nebraska,,1/14/21,3.73
+Nebraska,,1/15/21,4.02
+Nebraska,,1/19/21,4.6
+Nebraska,,1/20/21,4.71
+Nebraska,,1/21/21,4.9
+Nebraska,,1/22/21,5.15
+Nebraska,,1/23/21,5.36
+Nebraska,,1/24/21,5.68
+Nevada,,1/12/21,1.02
+Nevada,,1/13/21,1.02
+Nevada,,1/14/21,2.02
+Nevada,,1/15/21,2.2
+Nevada,,1/19/21,2.77
+Nevada,,1/20/21,2.89
+Nevada,,1/21/21,3.11
+Nevada,,1/22/21,3.42
+Nevada,,1/23/21,3.74
+Nevada,,1/24/21,4.2
+New Hampshire,,1/12/21,0.85
+New Hampshire,,1/13/21,0.94
+New Hampshire,,1/14/21,3.96
+New Hampshire,,1/15/21,4.18
+New Hampshire,,1/19/21,4.74
+New Hampshire,,1/20/21,4.95
+New Hampshire,,1/21/21,5.17
+New Hampshire,,1/22/21,5.37
+New Hampshire,,1/23/21,5.63
+New Hampshire,,1/24/21,5.88
+New Jersey,,1/12/21,2.33
+New Jersey,,1/13/21,2.66
+New Jersey,,1/14/21,2.65
+New Jersey,,1/15/21,3.14
+New Jersey,,1/19/21,3.99
+New Jersey,,1/20/21,4.29
+New Jersey,,1/21/21,4.29
+New Jersey,,1/22/21,4.58
+New Jersey,,1/23/21,4.93
+New Jersey,,1/24/21,5.28
+New Mexico,,1/12/21,2.07
+New Mexico,,1/13/21,2.19
+New Mexico,,1/14/21,3.5
+New Mexico,,1/15/21,3.82
+New Mexico,,1/19/21,5.36
+New Mexico,,1/20/21,5.54
+New Mexico,,1/21/21,5.86
+New Mexico,,1/22/21,6.21
+New Mexico,,1/23/21,7.1
+New Mexico,,1/24/21,7.76
+New York State,,1/12/21,2.79
+New York State,,1/13/21,3.02
+New York State,,1/14/21,3.18
+New York State,,1/15/21,3.45
+New York State,,1/19/21,4.55
+New York State,,1/20/21,4.76
+New York State,,1/21/21,5.05
+New York State,,1/22/21,5.39
+New York State,,1/23/21,5.68
+New York State,,1/24/21,6.03
+North Carolina,,1/12/21,1.8
+North Carolina,,1/13/21,2.18
+North Carolina,,1/14/21,2.22
+North Carolina,,1/15/21,2.48
+North Carolina,,1/19/21,3.3
+North Carolina,,1/20/21,3.52
+North Carolina,,1/21/21,3.87
+North Carolina,,1/22/21,4.29
+North Carolina,,1/23/21,4.74
+North Carolina,,1/24/21,5.26
+North Dakota,,1/12/21,4.42
+North Dakota,,1/13/21,4.5
+North Dakota,,1/14/21,4.63
+North Dakota,,1/15/21,5.05
+North Dakota,,1/19/21,6.25
+North Dakota,,1/20/21,6.35
+North Dakota,,1/21/21,6.43
+North Dakota,,1/22/21,6.69
+North Dakota,,1/23/21,7.02
+North Dakota,,1/24/21,7.37
+Northern Mariana Islands,MNP,1/12/21,1.92
+Northern Mariana Islands,MNP,1/13/21,2.01
+Northern Mariana Islands,MNP,1/14/21,6.07
+Northern Mariana Islands,MNP,1/15/21,6.61
+Northern Mariana Islands,MNP,1/19/21,7.83
+Northern Mariana Islands,MNP,1/20/21,8.03
+Northern Mariana Islands,MNP,1/21/21,8.1
+Northern Mariana Islands,MNP,1/22/21,8.26
+Northern Mariana Islands,MNP,1/23/21,8.82
+Northern Mariana Islands,MNP,1/24/21,9.44
+Ohio,,1/12/21,2.67
+Ohio,,1/13/21,2.82
+Ohio,,1/14/21,2.9
+Ohio,,1/15/21,3.1
+Ohio,,1/19/21,3.8
+Ohio,,1/20/21,3.9
+Ohio,,1/21/21,3.9
+Ohio,,1/22/21,4.28
+Ohio,,1/23/21,4.58
+Ohio,,1/24/21,4.92
+Oklahoma,,1/12/21,2.76
+Oklahoma,,1/13/21,3
+Oklahoma,,1/14/21,4.04
+Oklahoma,,1/15/21,4.38
+Oklahoma,,1/19/21,5.3
+Oklahoma,,1/20/21,5.5
+Oklahoma,,1/21/21,5.84
+Oklahoma,,1/22/21,6.27
+Oklahoma,,1/23/21,6.65
+Oklahoma,,1/24/21,7.06
+Oregon,,1/12/21,2.36
+Oregon,,1/13/21,2.56
+Oregon,,1/14/21,2.84
+Oregon,,1/15/21,3.16
+Oregon,,1/19/21,4.57
+Oregon,,1/20/21,4.57
+Oregon,,1/21/21,4.57
+Oregon,,1/22/21,5.18
+Oregon,,1/23/21,5.49
+Oregon,,1/24/21,5.8
+Pennsylvania,,1/12/21,2.08
+Pennsylvania,,1/13/21,2.23
+Pennsylvania,,1/14/21,2.76
+Pennsylvania,,1/15/21,2.97
+Pennsylvania,,1/19/21,3.63
+Pennsylvania,,1/20/21,3.77
+Pennsylvania,,1/21/21,3.97
+Pennsylvania,,1/22/21,4.21
+Pennsylvania,,1/23/21,4.47
+Pennsylvania,,1/24/21,4.78
+Puerto Rico,PRI,1/12/21,1.92
+Puerto Rico,PRI,1/13/21,2.11
+Puerto Rico,PRI,1/14/21,2.51
+Puerto Rico,PRI,1/15/21,2.74
+Puerto Rico,PRI,1/19/21,3.37
+Puerto Rico,PRI,1/20/21,3.52
+Puerto Rico,PRI,1/21/21,3.76
+Puerto Rico,PRI,1/22/21,4.02
+Puerto Rico,PRI,1/23/21,4.27
+Puerto Rico,PRI,1/24/21,4.51
+Republic of Palau,,1/12/21,2.32
+Republic of Palau,,1/13/21,4.05
+Republic of Palau,,1/14/21,4.27
+Republic of Palau,,1/15/21,6.24
+Republic of Palau,,1/19/21,10.68
+Republic of Palau,,1/20/21,11.06
+Republic of Palau,,1/21/21,13.42
+Republic of Palau,,1/22/21,13.42
+Republic of Palau,,1/23/21,14.98
+Republic of Palau,,1/24/21,17
+Rhode Island,,1/12/21,3.34
+Rhode Island,,1/13/21,3.44
+Rhode Island,,1/14/21,3.59
+Rhode Island,,1/15/21,3.72
+Rhode Island,,1/19/21,4.17
+Rhode Island,,1/20/21,4.33
+Rhode Island,,1/21/21,4.52
+Rhode Island,,1/22/21,4.71
+Rhode Island,,1/23/21,4.78
+Rhode Island,,1/24/21,5.12
+South Carolina,,1/12/21,1.5
+South Carolina,,1/13/21,1.7
+South Carolina,,1/14/21,1.87
+South Carolina,,1/15/21,1.98
+South Carolina,,1/19/21,3.02
+South Carolina,,1/20/21,3.12
+South Carolina,,1/21/21,3.38
+South Carolina,,1/22/21,3.67
+South Carolina,,1/23/21,4.01
+South Carolina,,1/24/21,4.53
+South Dakota,,1/12/21,4.67
+South Dakota,,1/13/21,4.84
+South Dakota,,1/14/21,5.06
+South Dakota,,1/15/21,5.36
+South Dakota,,1/19/21,5.8
+South Dakota,,1/20/21,5.94
+South Dakota,,1/21/21,6.16
+South Dakota,,1/22/21,6.42
+South Dakota,,1/23/21,6.89
+South Dakota,,1/24/21,7.13
+Tennessee,,1/12/21,2.1
+Tennessee,,1/13/21,2.21
+Tennessee,,1/14/21,3.5
+Tennessee,,1/15/21,3.88
+Tennessee,,1/19/21,4.43
+Tennessee,,1/20/21,4.48
+Tennessee,,1/21/21,4.59
+Tennessee,,1/22/21,4.75
+Tennessee,,1/23/21,4.92
+Tennessee,,1/24/21,5.19
+Texas,,1/12/21,2.79
+Texas,,1/13/21,2.97
+Texas,,1/14/21,3.16
+Texas,,1/15/21,3.46
+Texas,,1/19/21,4.22
+Texas,,1/20/21,4.42
+Texas,,1/21/21,4.61
+Texas,,1/22/21,4.87
+Texas,,1/23/21,5.08
+Texas,,1/24/21,5.18
+United States,USA,1/12/21,2.23
+United States,USA,1/13/21,2.41
+United States,USA,1/14/21,2.92
+United States,USA,1/15/21,3.19
+United States,USA,1/19/21,4.1
+United States,USA,1/20/21,4.3
+United States,USA,1/21/21,4.53
+United States,USA,1/22/21,4.89
+United States,USA,1/23/21,5.24
+United States,USA,1/24/21,5.57
+Utah,,1/12/21,2.83
+Utah,,1/13/21,3.06
+Utah,,1/14/21,3.24
+Utah,,1/15/21,3.57
+Utah,,1/19/21,4.49
+Utah,,1/20/21,4.98
+Utah,,1/21/21,5.19
+Utah,,1/22/21,5.47
+Utah,,1/23/21,5.47
+Utah,,1/24/21,5.47
+Vermont,,1/14/21,4.26
+Vermont,,1/15/21,4.54
+Vermont,,1/19/21,5.52
+Vermont,,1/20/21,5.55
+Vermont,,1/21/21,5.81
+Vermont,,1/22/21,6.16
+Vermont,,1/23/21,6.49
+Vermont,,1/24/21,6.72
+Virgin Islands,,1/14/21,1.21
+Virgin Islands,,1/15/21,1.41
+Virgin Islands,,1/19/21,1.88
+Virgin Islands,,1/20/21,2.08
+Virgin Islands,,1/21/21,2.34
+Virgin Islands,,1/22/21,2.58
+Virgin Islands,,1/23/21,2.81
+Virgin Islands,,1/24/21,2.84
+Virginia,,1/14/21,2.26
+Virginia,,1/15/21,2.52
+Virginia,,1/19/21,3.4
+Virginia,,1/20/21,3.56
+Virginia,,1/21/21,3.75
+Virginia,,1/22/21,4.15
+Virginia,,1/23/21,4.41
+Virginia,,1/24/21,4.61
+Washington,,1/12/21,2.13
+Washington,,1/13/21,2.23
+Washington,,1/14/21,2.46
+Washington,,1/15/21,2.64
+Washington,,1/19/21,3.49
+Washington,,1/20/21,3.76
+Washington,,1/21/21,4.03
+Washington,,1/22/21,4.34
+Washington,,1/23/21,4.72
+Washington,,1/24/21,4.86
+West Virginia,,1/14/21,5.53
+West Virginia,,1/15/21,6.31
+West Virginia,,1/19/21,7.19
+West Virginia,,1/20/21,7.42
+West Virginia,,1/21/21,7.59
+West Virginia,,1/22/21,8.11
+West Virginia,,1/23/21,8.75
+West Virginia,,1/24/21,9.14
+Wisconsin,,1/12/21,2.16
+Wisconsin,,1/13/21,2.16
+Wisconsin,,1/14/21,2.33
+Wisconsin,,1/15/21,2.6
+Wisconsin,,1/19/21,3.23
+Wisconsin,,1/20/21,3.32
+Wisconsin,,1/21/21,3.52
+Wisconsin,,1/22/21,3.8
+Wisconsin,,1/23/21,4.15
+Wisconsin,,1/24/21,4.48
+Wyoming,,1/12/21,2.35
+Wyoming,,1/13/21,2.49
+Wyoming,,1/14/21,2.99
+Wyoming,,1/15/21,3.44
+Wyoming,,1/19/21,4.28
+Wyoming,,1/20/21,4.46
+Wyoming,,1/21/21,4.46
+Wyoming,,1/22/21,5.18
+Wyoming,,1/23/21,5.66
+Wyoming,,1/24/21,6.2
