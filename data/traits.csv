@@ -1,0 +1,222 @@
+GenusSpecies,NestLoc,Excavate,Sociality,Lecty,MeanITD,d
+Agapostemon texanus,below,ex,solitary,polylectic,1.980487805,0.151829751
+Andrena angustitarsata,below,ex,solitary,polylectic,1.804878049,0.676219444
+Andrena anisochlora,below,ex,solitary,polylectic,1.93442623,NA
+Andrena astragali,below,ex,solitary,polylectic,2.556,NA
+Andrena atypica,below,ex,solitary,oligolectic,1.377049181,NA
+Andrena auricoma,below,ex,solitary,polylectic,1.619512195,0.437427469
+Andrena caerulea,below,ex,solitary,oligolectic,1.668292683,NA
+Andrena candida,below,ex,solitary,polylectic,1.648780488,0.545697342
+Andrena cerasifolii,below,ex,solitary,polylectic,2.563739771,0.296069553
+Andrena cercocarpi,below,ex,solitary,polylectic,1.658536585,NA
+Andrena chalybioides,below,ex,solitary,oligolectic,1.746341464,NA
+Andrena chlorogaster,below,ex,solitary,polylectic,1.23902439,0.297999141
+Andrena chlorura,below,ex,solitary,polylectic,1.84,NA
+Andrena cressonii infasciata,below,ex,solitary,polylectic,2.146341463,0.567112504
+Andrena cuneilabris,below,ex,solitary,oligolectic,1.783606557,NA
+Andrena hypoleuca,below,ex,solitary,NA,1.757554808,NA
+Andrena knuthiana,below,ex,solitary,polylectic,1.36487636,0.524947474
+Andrena lewisorum,below,ex,solitary,oligolectic,1.832,NA
+Andrena melanochroa,NA,NA,solitary,NA,NA,0.559991646
+Andrena microchlora,below,ex,solitary,polylectic,1.228658537,NA
+Andrena misella,below,ex,solitary,polylectic,1.926829268,0.592879839
+Andrena miserabilis,below,ex,solitary,polylectic,1.49032256,NA
+Andrena nigrocaerulea,below,ex,solitary,polylectic,1.912195122,0
+Andrena orthocarpi,below,ex,solitary,polylectic,1.482926829,0
+Andrena pallidifovea,below,ex,solitary,oligolectic,2.009756098,NA
+Andrena pensilis,below,ex,solitary,oligolectic,1.639344262,NA
+Andrena piperi,below,ex,solitary,polylectic,1.375609756,0.333786471
+Andrena plana,below,ex,solitary,oligolectic,1.924,NA
+Andrena prunorum,below,ex,solitary,polylectic,2.572,NA
+Andrena scurra,below,ex,solitary,polylectic,1.96104424,0.101760821
+Andrena semipunctata,below,ex,solitary,oligolectic,1.950819672,0.425364354
+Andrena sola,below,ex,solitary,polylectic,2.328,NA
+Andrena sp. 1,below,ex,solitary,NA,1.442622951,NA
+Andrena sp. 4M,below,ex,solitary,NA,NA,NA
+Andrena suavis,below,ex,solitary,oligolectic,1.508196721,NA
+Andrena subaustralis,below,ex,solitary,oligolectic,2.109944665,0.52490755
+Andrena subchalybea,below,ex,solitary,oligolectic,1.56097561,0.372379001
+Andrena subtilis,below,ex,solitary,polylectic,2.204878049,NA
+Andrena w-scripta,below,ex,solitary,polylectic,1.736585366,0.723140138
+Anthidiellum ehrhorni,above,rent,solitary,polylectic,2.390243903,NA
+Anthidiellum notatum robertsoni,above,rent,solitary,polylectic,2.183739771,0.392280003
+Anthidium manicatum,above,rent,solitary,polylectic,2.241171223,0.365981333
+Anthidium mormonum,above,rent,solitary,polylectic,2.292682927,NA
+Anthidium utahense,above,rent,solitary,polylectic,2.098018293,NA
+Anthophora bomboides stanfordiana,below,ex,solitary,polylectic,4.312,NA
+Anthophora californica,below,ex,solitary,polylectic,3.58,NA
+Anthophora curta,below,ex,solitary,polylectic,2.682926829,NA
+Anthophora edwardsii,below,ex,solitary,polylectic,4.08,NA
+Anthophora pacifica,below,ex,solitary,polylectic,4.467828128,NA
+Anthophora urbana,below,ex,solitary,polylectic,2.975609756,0.56659998
+Anthophorula chionura,below,ex,solitary,NA,NA,NA
+Ashmeadiella aridula astragali,above,rent,solitary,polylectic,1.314240528,0.212845505
+Ashmeadiella bucconis denticulata,above,rent,solitary,oligolectic,1.5228916,0.473001015
+Ashmeadiella cactorum basalis,above,rent,solitary,polylectic,1.2081632,0.847941249
+Ashmeadiella timberlakei solida,above,rent,solitary,polylectic,1.208,0.723140138
+Bombus californicus,mix,rent,social,polylectic,3.32195102,0.536941837
+Bombus crotchii,below,rent,social,polylectic,5.3,0.584044078
+Bombus melanopygus,mix,rent,social,polylectic,3.86,0.377096608
+Bombus vandykei,NA,rent,social,polylectic,3.6285714,0.373104578
+Bombus vosnesenskii,below,rent,social,polylectic,3.551219512,0.409113291
+Calliopsis fracta,below,ex,solitary,oligolectic,1.458536585,0.875141998
+Calliopsis hesperia equina,below,ex,solitary,oligolectic,1.2705572,0.382727933
+Calliopsis scitula,below,ex,solitary,polylectic,1.4081632,0.464415025
+Calliopsis scutellaris,below,ex,solitary,polylectic,1.6625,0.545255162
+Ceratina acantha,above,ex,solitary,polylectic,1.154098361,0.198858549
+Ceratina arizonensis,above,ex,solitary,polylectic,0.852459016,0.306676333
+Ceratina dallatorreana,above,ex,solitary,polylectic,1.285245902,0.135753868
+Ceratina nanula,above,ex,solitary,polylectic,1.02295082,0.12907333
+Ceratina punctigena,above,ex,solitary,polylectic,1.619512195,0.383901179
+Ceratina sequoiae,above,ex,solitary,oligolectic,1.481967213,NA
+Ceratina tejonensis,above,ex,solitary,polylectic,1.609756098,NA
+Ceratina timberlakei,above,ex,solitary,polylectic,1.264,0.659338081
+Chelostoma phaceliae,above,rent,solitary,oligolectic,1.081967213,NA
+Coelioxys apacheiorum,NA,rent,solitary,parasite,2.3469388,0.155365259
+Coelioxys gilensis,NA,rent,solitary,parasite,2,0.309603175
+Coelioxys novomexicana,NA,rent,solitary,parasite,2.55170892,0.169657115
+Coelioxys octodentata,NA,rent,solitary,parasite,2.29954924,0.154225174
+Coelioxys sp. MA,above,rent,solitary,parasite,NA,NA
+Colletes hyalinus,below,ex,solitary,oligolectic,2.16842874,0.950977571
+Diadasia australis,below,ex,solitary,oligolectic,3,NA
+Diadasia bituberculata,below,ex,solitary,oligolectic,3.16,NA
+Diadasia consociata,below,ex,solitary,oligolectic,1.790731707,0.16361991
+Diadasia diminuta,below,ex,solitary,oligolectic,2.232,0.795121117
+Diadasia enavata,below,ex,solitary,oligolectic,2.815121951,0.18931934
+Diadasia nigrifrons,below,ex,solitary,oligolectic,2.19375,NA
+Diadasia ochracea,below,ex,solitary,oligolectic,2.1166665,0.527242356
+Diadasia rinconis,below,ex,solitary,oligolectic,3.625,NA
+Dianthidium ulkei,mix,rent,solitary,oligolectic,2.019514961,0.311803508
+Dioxys pomonae,above,rent,solitary,parasite,NA,NA
+Dufourea sp. 2,below,ex,solitary,oligolectic,1.606557377,NA
+Eucera actuosa,below,ex,solitary,polylectic,2.731707317,0.657820571
+Eucera amsinckiae,below,ex,solitary,oligolectic,3.141463415,NA
+Eucera dorsata,below,ex,solitary,polylectic,3.133333333,NA
+Eucera edwardsii,below,ex,solitary,polylectic,2.536,NA
+Eucera frater albopilosa,below,ex,solitary,polylectic,3.9,0.424358166
+Eucera lunata,below,ex,solitary,polylectic,3.766666667,NA
+Eucera stretchii,below,ex,solitary,polylectic,3.073170732,NA
+Eucera virgata,below,ex,solitary,polylectic,3.02,NA
+Habropoda depressa,below,ex,solitary,polylectic,4.48,NA
+Habropoda tristissima,below,ex,solitary,polylectic,4.26,0.779188048
+Halictus farinosus,below,ex,social,polylectic,2.126829268,0.299014378
+Halictus ligatus,below,ex,social,polylectic,1.531707317,0.212897491
+Halictus tripartitus,below,ex,social,polylectic,1.2915664,0.145954028
+Heriades occidentalis,above,rent,solitary,polylectic,1.396721312,0.276193416
+Hesperapis ilicifoliae,below,ex,solitary,oligolectic,1.423168092,0.575345264
+Hesperapis regularis,below,ex,solitary,oligolectic,2.048780488,NA
+Hoplitis albifrons maura,above,rent,solitary,polylectic,2.634146341,NA
+Hoplitis fulgida platyura,above,rent,solitary,polylectic,1.508196721,NA
+Hoplitis grinnelli,above,rent,solitary,polylectic,1.278688525,NA
+Hoplitis howardi,above,rent,solitary,oligolectic,1.147540984,NA
+Hoplitis hypocrita,above,rent,solitary,polylectic,2.585365854,NA
+Hoplitis producta gracilis,above,rent,solitary,polylectic,1.26557377,0.40803709
+Hoplitis sambuci,above,rent,solitary,polylectic,2.234146342,0.754108051
+Hylaeus bisinuatus,above,rent,solitary,polylectic,1.1461212,0.10600858
+Hylaeus calvus,above,rent,solitary,polylectic,1.160655738,0.759375258
+Hylaeus conspicuus,above,rent,solitary,polylectic,1.1518072,0.320012223
+Hylaeus episcopalis,above,rent,solitary,polylectic,1.277551,0.155365259
+Hylaeus leptocephalus,above,rent,solitary,oligolectic,1.144764029,0.223827396
+Hylaeus mesillae,above,rent,solitary,polylectic,0.94375,0.262393205
+Hylaeus rudbeckiae,above,rent,solitary,polylectic,0.966990291,0.400154341
+Hylaeus verticalis,above,rent,solitary,polylectic,1.366472776,0.623688371
+Lasioglossum (Dialictus),below,ex,social,polylectic,1.055737705,NA
+Lasioglossum (Dialictus) brunneiiventre,below,ex,social,polylectic,0.929984134,0.227808946
+Lasioglossum (Dialictus) diversopunctatum,below,ex,social,polylectic,1.298360656,0.086597547
+Lasioglossum (Dialictus) impavidum,below,ex,social,polylectic,1.016393443,0.197882202
+Lasioglossum (Dialictus) incompletum,below,ex,social,polylectic,0.941463414,0.10900268
+Lasioglossum (Dialictus) megastictum,below,ex,social,polylectic,1.13548388,0.159877079
+Lasioglossum (Dialictus) punctatoventre,below,ex,social,polylectic,1.205107183,0.378050754
+Lasioglossum (Dialictus) tegulare group,below,ex,social,polylectic,0.87804878,0.120836149
+Lasioglossum (Evylaeus),below,ex,social,polylectic,1.298360656,NA
+Lasioglossum (Evylaeus) diatretum,below,ex,social,polylectic,1.239754098,0.154339065
+Lasioglossum (Evylaeus) granosum,below,ex,social,polylectic,1.568800091,0.145775826
+Lasioglossum (Evylaeus) kincaidii,below,ex,social,polylectic,1.445783,0.18760786
+Lasioglossum (Evylaeus) nigrescens,below,ex,social,polylectic,1.095081967,0.137851358
+Lasioglossum (Evylaeus) orthocarpi,below,ex,social,polylectic,1.892682927,NA
+Lasioglossum (Evylaeus) sp. B,below,ex,social,polylectic,1.443902439,0.383901179
+Lasioglossum (Evylaeus) sp. D,below,ex,social,polylectic,1.678048781,NA
+Lasioglossum (Evylaeus) sp. I,below,ex,social,polylectic,1.652459016,NA
+Lasioglossum (Evylaeus) sp. red ab,below,ex,social,polylectic,1.357377049,NA
+Lasioglossum mellipes,below,ex,solitary,polylectic,1.78313252,0.342176133
+Lasioglossum sisymbrii,below,ex,solitary,polylectic,1.91999986,0.427392645
+Lasioglossum titusi,below,ex,solitary,oligolectic,1.89832501,0.39729221
+Megachile angelarum,above,rent,solitary,polylectic,2.165853659,0.485926658
+Megachile apicalis,mix,rent,solitary,oligolectic,2.312195122,0.302401052
+Megachile brevis,mix,rent,solitary,polylectic,2.45783135,0.439405413
+Megachile coquilletti,above,rent,solitary,polylectic,3.36,0.315087302
+Megachile fidelis,above,rent,solitary,polylectic,2.6,0.186977552
+Megachile frugalis,above,rent,solitary,polylectic,2.653658537,0.226228129
+Megachile gentilis,above,rent,solitary,polylectic,2.6466668,0.302355325
+Megachile lippiae,below,rent,solitary,polylectic,3.095238,0.201625573
+Megachile montivaga,above,rent,solitary,polylectic,2.576422778,0.265392751
+Megachile occidentalis,mix,rent,solitary,polylectic,2.712716908,0.339521375
+Megachile onobrychidis,mix,rent,solitary,polylectic,2.575609756,0.287625772
+Megachile parallela,mix,rent,solitary,polylectic,3.289221853,0.240985329
+Megachile rotundata,above,rent,solitary,oligolectic,2.195121951,0.231346214
+Megachile texana,below,rent,solitary,polylectic,3.3375,NA
+Melecta edwardsii,below,rent,solitary,parasite,3.262195122,NA
+Melissodes agilis,below,ex,solitary,oligolectic,2.6000002,0.44733803
+Melissodes communis alopex,below,ex,solitary,polylectic,2.79375,0.490220841
+Melissodes lupina,below,ex,solitary,oligolectic,2.204878049,0.230260781
+Melissodes robustior,below,ex,solitary,oligolectic,2.762812156,0.405439216
+Melissodes stearnsi,below,ex,solitary,oligolectic,2.03902439,0.303652425
+Melissodes tepida timberlakei,below,ex,solitary,polylectic,2.214634146,0.299661701
+Neopasites sierrae,below,rent,solitary,parasite,NA,NA
+Nomada hesperia,NA,rent,solitary,parasite,2.09375,NA
+Nomada sp. 1,below,rent,solitary,parasite,2.195121951,NA
+Nomada sp. 2,below,rent,solitary,parasite,1.365853659,NA
+Nomada sp. 3,below,rent,solitary,parasite,2.067705195,0.251735577
+Nomada sp. 4,below,rent,solitary,parasite,1.672131148,NA
+Nomada sp. 5,below,rent,solitary,parasite,1.076042046,NA
+Nomada sp. 7,below,rent,solitary,parasite,1.804878049,NA
+Nomada sp. A,below,rent,solitary,parasite,1.583333333,0.081137585
+Osmia aglaia,above,rent,solitary,polylectic,2.195121951,0.665790182
+Osmia atrocyanea,above,rent,solitary,polylectic,2.819512195,0.646066637
+Osmia bakeri,above,rent,solitary,oligolectic,1.5,NA
+Osmia bridwelli,NA,rent,solitary,polylectic,3.22,NA
+Osmia cara,NA,rent,solitary,polylectic,3.073170732,NA
+Osmia coloradensis,above,rent,solitary,oligolectic,2.312195122,0.343061117
+Osmia cyanella,above,rent,solitary,polylectic,2.448780488,0.667191186
+Osmia gaudiosa,above,rent,solitary,oligolectic,1.690454133,0.475150096
+Osmia glauca,above,rent,solitary,oligolectic,1.609756098,NA
+Osmia granulosa,NA,rent,solitary,NA,2.058536585,0.334832436
+Osmia laeta,above,rent,solitary,polylectic,1.951219512,0.532734327
+Osmia lignaria propinqua,above,rent,solitary,polylectic,2.84000008,0.483272996
+Osmia montana,above,rent,solitary,NA,2.487804878,NA
+Osmia montana quadriceps,above,rent,solitary,oligolectic,2.216,NA
+Osmia nemoris,mix,rent,solitary,polylectic,2.214634146,0.456772644
+Osmia nigrifrons,above,rent,solitary,oligolectic,2.487804878,NA
+Osmia pusilla,above,rent,solitary,polylectic,NA,NA
+Osmia regulina,above,rent,solitary,polylectic,1.975668525,0.481238021
+Osmia sp. FA,NA,rent,solitary,NA,1.707317073,NA
+Osmia sp. FC,NA,rent,solitary,NA,2.195121951,NA
+Osmia sp. FE,NA,rent,solitary,NA,NA,NA
+Osmia texana,above,rent,solitary,oligolectic,2.80048204,0.492630668
+Osmia trevoris,below,ex,solitary,NA,NA,0.628337041
+Panurginus nigrellus,below,ex,solitary,polylectic,1.317073171,NA
+Peponapis pruinosa,below,ex,solitary,oligolectic,3.131707317,0.64133196
+Perdita heliotropii,below,ex,solitary,NA,0.868292683,NA
+Perdita heliotropii perducta,below,ex,solitary,NA,0.824,NA
+Perdita salicis tristis,below,ex,solitary,oligolectic,0.764,NA
+Protosmia rubifloris,above,rent,solitary,polylectic,1.468852459,NA
+Sphecodes sp. 1,below,rent,solitary,parasite,0.895,NA
+Sphecodes sp. B,below,rent,solitary,parasite,0.98,0.007880114
+Sphecodes sp. D,NA,rent,solitary,parasite,0.9375,NA
+Stelis laticincta,NA,rent,solitary,parasite,2.292682927,0.144094301
+Stelis montana,above,rent,solitary,parasite,2.292682927,0.633930548
+Svastra obliqua expurgata,below,ex,solitary,oligolectic,3.336817663,0.204616157
+Tetraloniella pomonae,below,ex,solitary,oligolectic,2.432,NA
+Triepeolus concavus,below,rent,solitary,parasite,2.7125,0.102858041
+Triepeolus heterurus,NA,rent,solitary,parasite,1.653012,0.25980996
+Triepeolus melanarius,NA,rent,solitary,parasite,1.78213272,0.224434179
+Triepeolus nr. lestes,below,rent,solitary,parasite,2.15,NA
+Triepeolus sp. 1,below,rent,solitary,parasite,1.9067767,NA
+Triepeolus sp. A,below,rent,solitary,parasite,1.666666667,0.311803508
+Triepeolus sp. D,below,rent,solitary,parasite,1.21875,NA
+Triepeolus subnitens,NA,rent,solitary,parasite,2.4283334,0.296373662
+Triepeolus timberlakei,below,rent,solitary,parasite,1.642818815,0.106401041
+Triepeolus utahensis,NA,rent,solitary,parasite,NA,0.110252665
+Xeromelecta californica,below,rent,solitary,parasite,2.554336154,0.194783258
+Xylocopa tabaniformis orpifex,above,ex,solitary,polylectic,5.84,0.536656853
+Xylocopa varipuncta,above,ex,solitary,polylectic,6.945,0.514446096
