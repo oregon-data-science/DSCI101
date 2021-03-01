@@ -1,60 +1,63 @@
-StateTerr
-Alaska
-Alabama
-Arkansas
-American Samoa
-Arizona
-California
-Colorado
-Connecticut
-District of Columbia
-Delaware
-Florida
-Federated States of Micronesia
-Georgia
-Guam
-Hawaii
-Iowa
-Idaho
-Illinois
-Indiana
-Kansas
-Kentucky
-Louisiana
-Massachusetts
-Maryland
-Maine
-Marshall Islands
-Michigan
-Minnesota
-Missouri
-Northern Mariana Islands
-Mississippi
-Montana
-North Carolina
-North Dakota
-Nebraska
-New Hampshire
-New Jersey
-New Mexico
-Nevada
-New York State
-Ohio
-Oklahoma
-Oregon
-Pennsylvania
-Puerto Rico
-Rhode Island
-Republic of Palau
-South Carolina
-South Dakota
-Tennessee
-Texas
-Utah
-Virginia
-Virgin Islands
-Vermont
-Washington
-Wisconsin
-West Virginia
-Wyoming
+StateTerr,Entity
+Alaska,State
+Alabama,State
+Arkansas,State
+American Samoa,Territory
+Arizona,State
+Bureau of Prisons,Federal
+California,State
+Colorado,State
+Connecticut,State
+Dept of Defense,Federal
+District of Columbia,District
+Delaware,State
+Florida,State
+Federated States of Micronesia,Assoc State
+Georgia,State
+Guam,Territory
+Hawaii,State
+Indian Health Svc,Federal
+Iowa,State
+Idaho,State
+Illinois,State
+Indiana,State
+Kansas,State
+Kentucky,State
+Louisiana,State
+Massachusetts,State
+Maryland,State
+Maine,State
+Marshall Islands,Territory
+Michigan,State
+Minnesota,State
+Missouri,State
+Northern Mariana Islands,Territory
+Mississippi,State
+Montana,State
+North Carolina,State
+North Dakota,State
+Nebraska,State
+New Hampshire,State
+New Jersey,State
+New Mexico,State
+Nevada,State
+New York State,State
+Ohio,State
+Oklahoma,State
+Oregon,State
+Pennsylvania,State
+Puerto Rico,Territory
+Rhode Island,State
+Republic of Palau,Assoc State
+South Carolina,State
+South Dakota,State
+Tennessee,State
+Texas,State
+Utah,State
+Virginia,State
+Virgin Islands,Territory
+Vermont,State
+Washington,State
+Wisconsin,State
+West Virginia,State
+Wyoming,State
